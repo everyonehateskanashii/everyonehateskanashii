@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to my profile - @everyonehateskanashii</h1>
-<h3 align="center">A FiveM Developer and Full-Stack Developer</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=everyonehateskanashii&label=Profile%20views&color=0e75b6&style=flat" alt="everyonehateskanashii" /> </p>
 
-- 🔭 Current Project > [ **Aesthia** ]
+- 🔭 Current Project > [ **None** ]
 
 - 📫 Contact > **kanashiiv2@gmail.com**
 
-<h3 align="left">Discord with scripts:</h3>
+<h3 align="left">Discord (Soon):</h3>
 <p align="left">
 <a href="https://discord.gg/Z3BdBZMQCX"><img src="https://discordapp.com/api/guilds/943933578285314128/widget.png?style=banner2" alt="Discord Banner 2"/></a>
 </p>
