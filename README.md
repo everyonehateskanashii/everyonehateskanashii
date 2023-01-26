@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=everyonehateskanashii&label=Profile%20views&color=0e75b6&style=flat" alt="everyonehateskanashii" /> </p>
 
-- 🔭 Current Project > [ **None** ]
+- 🔭 Current Project > [ **Aesthia** ]
 
 - 📫 Contact > **kanashiiv2@gmail.com**
 
