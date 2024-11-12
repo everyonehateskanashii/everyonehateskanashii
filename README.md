@@ -9,7 +9,7 @@
 
 <h3 align="left">Discord (Soon):</h3>
 <p align="left">
-<a href="https://discord.gg/Z3BdBZMQCX"><img src="https://discordapp.com/api/guilds/943933578285314128/widget.png?style=banner2" alt="Discord Banner 2"/></a>
+<a href="https://discord.gg/Z3BdBZMQCX"><img src="https://discordapp.com/api/guilds/1305665091772878918/widget.png?style=banner2" alt="Discord Banner 2"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
